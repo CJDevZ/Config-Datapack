@@ -1,18 +1,6 @@
 {
   "pack": {
-    "description": {
-      "text": "https://modrinth.com/user/W3V5jiYW",
-      "color": "blue",
-      "underlined": true,
-      "click_event": {
-        "action": "open_url",
-        "url": "https://modrinth.com/user/W3V5jiYW"
-      }
-    },
-    "pack_format": 71,
-    "supported_formats": {
-      "min_inclusive": 71,
-      "max_inclusive": 256
-    }
+    "description": "Config List for Datapacks",
+    "pack_format": 81
   }
 }
