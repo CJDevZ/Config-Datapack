@@ -1,0 +1,1 @@
+{"criteria":{"open":{"trigger":"minecraft:tick","conditions":{"player":[{"condition":"minecraft:reference","name":"config:show"}]}}},"rewards":{"function":"config:show"}}

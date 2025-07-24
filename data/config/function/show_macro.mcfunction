@@ -1,0 +1,1 @@
+$dialog show @s {type:"dialog_list",title:"Config",pause:true,columns:1,dialogs:$(configs)}
